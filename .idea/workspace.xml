@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e603a02e-428c-4a87-9e1a-27f161e5825b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/projectdemo2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Classes/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/datamanipulation/DataManipulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/EnrollmentExceedingException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/InvalidCourseIdSelection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/InvalidStudentIdSelectionException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/ReplacementException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/UnenrollmentInAnyCourseException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/files/Student course details.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/files/coursedata.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/files/studentinfo.text" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/readwrite/preparedata.java" afterDir="false" />
-    </list>
+    <list default="true" id="e603a02e-428c-4a87-9e1a-27f161e5825b" name="Changes" comment="project demo 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +36,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Dream/Documents/projectdemo2/src",
+    "last_opened_file_path": "C:/Users/Dream/Documents/projectdemo2/src/reviewscreenshotsandvideo",
     "project.structure.last.edited": "Global Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
@@ -64,6 +44,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dream\Documents\projectdemo2\src\reviewscreenshotsandvideo" />
       <recent name="C:\Users\Dream\Documents\projectdemo2\src" />
       <recent name="C:\Users\Dream\Documents\projectdemo2\src\files" />
     </key>
@@ -81,6 +62,32 @@
       <option name="presentableId" value="Default" />
       <updated>1674372910135</updated>
     </task>
+    <task id="LOCAL-00001" summary="project demo 2">
+      <created>1674407804930</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674407804930</updated>
+    </task>
+    <task id="LOCAL-00002" summary="project demo 2">
+      <created>1674407851521</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674407851521</updated>
+    </task>
+    <task id="LOCAL-00003" summary="project demo 2">
+      <created>1674408003115</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674408003115</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="project demo 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="project demo 2" />
   </component>
 </project>
