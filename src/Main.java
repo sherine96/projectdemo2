@@ -24,7 +24,7 @@ public class Main extends DataManipulation{
         //datamanipulation-DataManipulation.java
         //Implement your application UI requirement:
         //main.java
-       homepage();
+       //homepage();
 
 
 
